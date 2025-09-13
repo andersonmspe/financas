@@ -1,0 +1,35 @@
+.navbar-brand {
+	padding-top: 12px;
+}
+
+.panel-default {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.alert{
+	margin:10px 10px;
+}
+
+.nv-titulo{
+	float:right;
+	padding: 15px;
+}
+
+.titulo-panel{
+	float:left;
+}
+
+.label-pendente{
+	background-color:red; color:#fff;
+	padding:1%;
+	border-radius:25% 0 25% 0;
+	border:1px solid red;
+}
+
+.label-recebido{
+	background-color:green; color:#fff;
+	padding:1%;
+	border-radius:25% 0 25% 0;
+	border:1px solid green;
+}
